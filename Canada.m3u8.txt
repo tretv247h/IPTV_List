@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:0,Global (Canada)
+http://192.99.19.98:1935/flu555/_definst_/global/playlist.m3u8?token=
+#EXTINF:0,Global (Canada)
+http://167.114.157.40:1935/flu555/_definst_/global/playlist.m3u8?token=
+#EXTINF:0,CTV (Canada)
+http://192.99.39.240:1935/flu555/_definst_/ctv/playlist.m3u8?token=
+#EXTINF:0,CTV (Canada)
+http://167.114.157.40:1935/flu555/_definst_/ctv/playlist.m3u8?token=
+#EXTINF:0,CBC (Canada)
+http://192.99.39.240:1935/flu555/_definst_/cbc/playlist.m3u8?token=
+#EXTINF:0,CBC (Canada)
+http://167.114.157.40:1935/flu555/_definst_/cbc/playlist.m3u8?token=
+#EXTINF:0,RDI (Canada – French)
+http://192.99.39.240:1935/flu555/_definst_/rdi/playlist.m3u8?token=
+#EXTINF:0,RDI (Canada – French)
+http://167.114.157.40:1935/flu555/_definst_/rdi/playlist.m3u8?token=
+#EXTINF:0,TV5 (Canada – French)
+http://192.99.39.240:1935/flu555/_definst_/tv5/playlist.m3u8?token=
+#EXTINF:0,TV5 (Canada – French)
+http://167.114.157.40:1935/flu555/_definst_/tv5/playlist.m3u8?token=
+#EXTINF:0,RDS 2 (Canada French)
+http://192.99.39.240:1935/flu555/_definst_/rds2/playlist.m3u8?token=
+#EXTINF:0,RDS 2 (Canada French)
+http://167.114.157.40:1935/flu555/_definst_/rds2/playlist.m3u8?token=
+#EXTINF:0,Vrak (Canada French)
+http://192.99.39.240:1935/flu555/_definst_/vrak/playlist.m3u8?token=
+#EXTINF:0,Vrak (Canada French)
+http://167.114.157.40:1935/flu555/_definst_/vrak/playlist.m3u8?token=
+#EXTINF:0,Super ecran 1 (Canada French)
+http://192.99.39.240:1935/flu555/_definst_/superecran1/playlist.m3u8?token=
+#EXTINF:0,Super ecran 1 (Canada French)
+http://167.114.157.40:1935/flu555/_definst_/superecran1/playlist.m3u8?token=
+#EXTINF:0,Super ecran 2 (Canada French)
+http://192.99.39.240:1935/flu555/_definst_/superecran2/playlist.m3u8?token=
+#EXTINF:0,Super ecran 2 (Canada French)
+http://167.114.157.40:1935/flu555/_definst_/superecran2/playlist.m3u8?token=
+#EXTINF:0,Super ecran 3 ( (Canada French)
+http://192.99.39.240:1935/flu555/_definst_/superecran3/playlist.m3u8?token=
+#EXTINF:0,Super ecran 3 ( (Canada French)
+http://167.114.157.40:1935/flu555/_definst_/superecran3/playlist.m3u8?token=
+#EXTINF:0,Super ecran 4 (Canada French)
+http://192.99.39.240:1935/flu555/_definst_/superecran4/playlist.m3u8?token=
+#EXTINF:0,Super ecran 4 (Canada French)
+http://167.114.157.40:1935/flu555/_definst_/superecran4/playlist.m3u8?token=
+#EXTINF:0,CP24 (Canada)
+http://192.99.39.240:1935/flu555/_definst_/cp24/playlist.m3u8?token=
+#EXTINF:0,CP24 (Canada)
+http://167.114.157.40:1935/flu555/_definst_/cp24/playlist.m3u8?token=
+#EXTINF:0,CHCH (Canada)
+http://192.99.39.240:1935/flu555/_definst_/chch/playlist.m3u8?token=
+#EXTINF:0,CHCH (Canada)
+http://167.114.157.40:1935/flu555/_definst_/chch/playlist.m3u8?token=
+#EXTINF:0,HGTV (Canada)
+http://167.114.156.30:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+#EXTINF:0,HGTV Canada)
+http://192.99.39.240:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+#EXTINF:0,Slice (Canada)
+http://192.99.39.240:1935/flu555/_definst_/slice/playlist.m3u8?token=
+#EXTINF:0,Slice (Canada)
+http://167.114.157.40:1935/flu555/_definst_/slice/playlist.m3u8?token=
+#EXTINF:0,DejaView (Canada)
+http://192.99.39.240:1935/flu555/_definst_/dejaview/playlist.m3u8?token=
+#EXTINF:0,DejaView (Canada)
+http://167.114.157.40:1935/flu555/_definst_/dejaview/playlist.m3u8?token=
+#EXTINF:0,Super Channel 1 (Canada)
+http://192.99.39.240:1935/flu555/_definst_/superchannel1/playlist.m3u8?token=
+#EXTINF:0,Super Channel 1 (Canada)
+http://167.114.157.40:1935/flu555/_definst_/superchannel1/playlist.m3u8?token=
+#EXTINF:0,Super Channel 2 (Canada)
+http://192.99.39.240:1935/flu555/_definst_/superchannel2/playlist.m3u8?token=
+#EXTINF:0,Super Channel 2 (Canada)
+http://167.114.157.40:1935/flu555/_definst_/superchannel2/playlist.m3u8?token=
+#EXTINF:0,MFest (Canada)
+http://192.99.39.240:1935/flu555/_definst_/mfest/playlist.m3u8?token=
+#EXTINF:0,MFest (Canada)
+http://167.114.157.40:1935/flu555/_definst_/mfest/playlist.m3u8?token=
+#EXTINF:0,Teletoon (Canada)
+http://192.99.39.240:1935/flu555/_definst_/teletoon/playlist.m3u8?token=
+#EXTINF:0,Teletoon (Canada)
+http://167.114.101.188:1935/flu555/_definst_/teletoon/playlist.m3u8?token=
+#EXTINF:0,Treehouse (Canada)
+http://192.99.39.240:1935/flu555/_definst_/treehouse/playlist.m3u8?token=
+#EXTINF:0,Treehouse (Canada)
+http://167.114.101.188:1935/flu555/_definst_/treehouse/playlist.m3u8?token=
+#EXTINF:0,YTV (Canada)
+http://192.99.39.240:1935/flu555/_definst_/ytv/playlist.m3u8?token=
+#EXTINF:0,YTV (Canada)
+http://167.114.101.188:1935/flu555/_definst_/ytv/playlist.m3u8?token=
+#EXTINF:0,Family (Canada)
+http://192.99.39.240:1935/flu555/_definst_/family/playlist.m3u8?token=
+#EXTINF:0,Family (Canada)
+http://167.114.101.188:1935/flu555/_definst_/family/playlist.m3u8?token=
+#EXTINF:0,Sportsnet 360 (Canada)
+http://192.99.19.98:1935/flu555/_definst_/sn360/playlist.m3u8?token=
+#EXTINF:0,Sportsnet 360 (Canada)
+http://167.114.101.188:1935/flu555/_definst_/sn360/playlist.m3u8?token=
